@@ -5,8 +5,8 @@ dataset:
   manifest:
     amount: 2
     files: MANIFEST.yaml
-    size: 70 KB
+    size: 52 KB
     store: s3h://s3local
   mutability: strict
   name: dataset-ex
-  version: 2
+  version: 3
