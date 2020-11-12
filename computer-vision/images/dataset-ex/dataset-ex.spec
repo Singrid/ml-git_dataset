@@ -3,10 +3,10 @@ dataset:
   - computer-vision
   - images
   manifest:
-    amount: 2
+    amount: 3
     files: MANIFEST.yaml
-    size: 52 KB
+    size: 171 KB
     store: s3h://s3local
   mutability: strict
   name: dataset-ex
-  version: 3
+  version: 7
