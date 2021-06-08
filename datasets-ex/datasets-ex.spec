@@ -9,4 +9,4 @@ dataset:
     storage: s3h://s3local
   mutability: strict
   name: datasets-ex
-  version: 5
+  version: 6
