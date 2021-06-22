@@ -3,10 +3,10 @@ dataset:
   - computer-vision
   - images
   manifest:
-    amount: 6
+    amount: 7
     files: MANIFEST.yaml
-    size: 2.1 MB
+    size: 2.3 MB
     storage: s3h://ml-git-qa-us-west-2
   mutability: strict
   name: datasets-ex
-  version: 14
+  version: 15
