@@ -3,10 +3,10 @@ dataset:
   - computer-vision
   - images
   manifest:
-    amount: 10
+    amount: 9
     files: MANIFEST.yaml
-    size: 2.4 MB
+    size: 2.3 MB
     storage: gdriveh://mlgit
   mutability: strict
   name: datasets-ex
-  version: 18
+  version: 19
